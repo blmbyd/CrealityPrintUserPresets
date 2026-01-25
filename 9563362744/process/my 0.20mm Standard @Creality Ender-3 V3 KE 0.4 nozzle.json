@@ -1,0 +1,17 @@
+{
+    "alternate_extra_wall": "1",
+    "base_id": "GP004",
+    "bottom_solid_infill_flow_ratio": "1.1",
+    "brim_type": "outer_only",
+    "brim_width": "5",
+    "ensure_vertical_shell_thickness": "ensure_moderate",
+    "from": "User",
+    "inherits": "0.20mm Standard @Creality Ender-3 V3 KE 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "my 0.20mm Standard @Creality Ender-3 V3 KE 0.4 nozzle",
+    "print_settings_id": "my 0.20mm Standard @Creality Ender-3 V3 KE 0.4 nozzle",
+    "skirt_height": "10",
+    "skirt_loops": "2",
+    "sparse_infill_pattern": "line",
+    "version": "25.4.30.17"
+}

@@ -1,0 +1,23 @@
+{
+    "base_id": "GFSA04",
+    "filament_settings_id": [
+        "my SUN-PETG @Creality Ender-3 V3 KE 0.4 nozzle"
+    ],
+    "from": "User",
+    "inherits": "CR-PETG @Creality Ender-3 V3 KE 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "my SUN-PETG @Creality Ender-3 V3 KE 0.4 nozzle",
+    "nozzle_temperature": [
+        "240"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "240"
+    ],
+    "nozzle_temperature_range_high": [
+        "260"
+    ],
+    "nozzle_temperature_range_low": [
+        "230"
+    ],
+    "version": "25.7.2.14"
+}

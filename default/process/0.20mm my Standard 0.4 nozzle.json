@@ -1,0 +1,16 @@
+{
+    "alternate_extra_wall": "1",
+    "base_id": "GP004",
+    "brim_type": "outer_only",
+    "brim_width": "5",
+    "ensure_vertical_shell_thickness": "ensure_moderate",
+    "from": "User",
+    "inherits": "0.20mm Standard @Creality Ender-3 V3 KE 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "0.20mm my Standard 0.4 nozzle",
+    "print_settings_id": "0.20mm my Standard 0.4 nozzle",
+    "skirt_loops": "2",
+    "sparse_infill_pattern": "line",
+    "support_style": "snug",
+    "version": "25.1.1.0"
+}

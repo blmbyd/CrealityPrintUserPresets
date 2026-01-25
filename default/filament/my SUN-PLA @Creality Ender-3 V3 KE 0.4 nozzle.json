@@ -1,0 +1,20 @@
+{
+    "base_id": "GFSA04",
+    "filament_cost": [
+        "59"
+    ],
+    "filament_settings_id": [
+        "my SUN-PLA @Creality Ender-3 V3 KE 0.4 nozzle"
+    ],
+    "from": "User",
+    "inherits": "CR-PLA @Creality Ender-3 V3 KE 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "my SUN-PLA @Creality Ender-3 V3 KE 0.4 nozzle",
+    "textured_plate_temp": [
+        "55"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "55"
+    ],
+    "version": "25.3.31.13"
+}
