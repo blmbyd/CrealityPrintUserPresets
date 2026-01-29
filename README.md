@@ -30,8 +30,8 @@ Print a flow rate test model ("chips," lines, or similar), each labelled with a 
 1. Inspect each test chip and choose the one with the **smoothest top surface**—no ridges, burrs, or line gaps.
 2. Note the modifier from that chip (e.g., +5).
 3. **Formula:**  
-   $$\text{NewFlow} = \text{OldFlow} \times \frac{100 + \text{Modifier}}{100}$$  
-   *Example: Flow was 0.98, best chip is +5 → $0.98 \times 1.05 = 1.029$*
+   $$\text{NewFlow} = \text{OldFlow} \times ( 100\\% + \text{1pass}\\% ) \times ( 100\\% + \text{2pass}\\% )$$  
+   *Example: Flow was 0.98, best chip from pass 1 is +5, best chip from pass 2 is -3 →* $$0.98 \times 1.05 \times 0.97 = 0.998$$
 
 **Step 2: Fine-Tuning**  
 Print another test model using the new flow rate from step 1.
