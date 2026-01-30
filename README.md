@@ -55,7 +55,7 @@ Print another test model using the new flow rate from step 1.
 ### Analysis & Calculation (PA Pattern)
 1.  Find the line that is the most **uniform across its entire length**. Ignore lines that are thin at the ends or bloated in the middle.
 2.  Read the PA value assigned to that line (usually printed next to it or calculated based on height if using a tower).
-    * *For PA Line method in Orca/Creality:* The value is printed directly next to the line.
+    * *For PA Pattern in Orca/Creality:* The value is printed directly next to the line.
 
 ### Where to enter in Creality Print?
 * **Path:** Filament Edit -> **Advanced** (or Filament Overrides) tab.
