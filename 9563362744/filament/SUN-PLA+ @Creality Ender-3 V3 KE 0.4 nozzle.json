@@ -10,7 +10,7 @@
         "40"
     ],
     "filament_settings_id": [
-        "SUN-PLA+2.0 @Creality Ender-3 V3 KE 0.4 nozzle"
+        "SUN-PLA+ @Creality Ender-3 V3 KE 0.4 nozzle"
     ],
     "filament_vendor": [
         "Sunlu"
@@ -18,7 +18,7 @@
     "from": "User",
     "inherits": "CR-PLA @Creality Ender-3 V3 KE 0.4 nozzle",
     "is_custom_defined": "0",
-    "name": "SUN-PLA+2.0 @Creality Ender-3 V3 KE 0.4 nozzle",
+    "name": "SUN-PLA+ @Creality Ender-3 V3 KE 0.4 nozzle",
     "nozzle_temperature": [
         "215"
     ],

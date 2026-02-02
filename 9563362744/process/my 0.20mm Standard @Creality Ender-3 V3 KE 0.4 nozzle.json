@@ -9,6 +9,7 @@
     "inherits": "0.20mm Standard @Creality Ender-3 V3 KE 0.4 nozzle",
     "is_custom_defined": "0",
     "name": "my 0.20mm Standard @Creality Ender-3 V3 KE 0.4 nozzle",
+    "only_one_wall_first_layer": "1",
     "print_settings_id": "my 0.20mm Standard @Creality Ender-3 V3 KE 0.4 nozzle",
     "skirt_height": "10",
     "skirt_loops": "2",
